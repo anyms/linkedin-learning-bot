@@ -1,0 +1,7 @@
+venv/
+.vscode/
+.idea/
+
+debug.log
+chromedriver.exe
+chromedriver

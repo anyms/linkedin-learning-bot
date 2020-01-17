@@ -1,0 +1,4 @@
+requests
+selenium
+python-slugify
+argparse
